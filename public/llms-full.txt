@@ -397,11 +397,11 @@ Description: גלו עולם של עוגות מעוצבות, עוגיות חמא
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -411,13 +411,11 @@ Description: גלו עולם של עוגות מעוצבות, עוגיות חמא
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -1026,11 +1024,11 @@ Description: הפכו כל חגיגה לבלתי נשכחת עם עוגות מר
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -1040,13 +1038,11 @@ Description: הפכו כל חגיגה לבלתי נשכחת עם עוגות מר
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -1404,11 +1400,11 @@ Description: הכירו את התשוקה, המסורת והאהבה לאפיי�
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -1418,13 +1414,11 @@ Description: הכירו את התשוקה, המסורת והאהבה לאפיי�
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -1587,11 +1581,11 @@ Description: מחפשים עוגה מותאמת אישית או סתם בא לכ
 
 
 
-- [business_phone]
+- 053-9281125
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_address]
+- ראש העין
 
 
 
@@ -1693,11 +1687,11 @@ Description: מחפשים עוגה מותאמת אישית או סתם בא לכ
 
 
 
-[business_phone]
+053-9281125
 
 
 
-[business_email]
+maayanezra80@gmail.com
 
 
 
@@ -1799,11 +1793,11 @@ Description: מחפשים עוגה מותאמת אישית או סתם בא לכ
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -1813,13 +1807,11 @@ Description: מחפשים עוגה מותאמת אישית או סתם בא לכ
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -2029,11 +2021,11 @@ Description: המוצרים שלנו - Maayani's Sweet's
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -2043,13 +2035,11 @@ Description: המוצרים שלנו - Maayani's Sweet's
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -2237,11 +2227,11 @@ Description: פרטי המוצר - Maayani's Sweet's
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -2251,13 +2241,11 @@ Description: פרטי המוצר - Maayani's Sweet's
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -2469,11 +2457,11 @@ Description: מוצרים - Maayani's Sweet's
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -2483,13 +2471,11 @@ Description: מוצרים - Maayani's Sweet's
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -2692,11 +2678,11 @@ Maayani's Sweet's ("החברה", "אנו", "שלנו") מחויבת להגן ע�
 
 - חברה: Maayani's Sweet's
 
-- אימייל: [business_email]
+- אימייל: maayanezra80@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 053-9281125
 
-- כתובת: [business_address]
+- כתובת: ראש העין
 
 
 
@@ -2743,11 +2729,11 @@ Maayani's Sweet's ("החברה", "אנו", "שלנו") מחויבת להגן ע�
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -2757,13 +2743,11 @@ Maayani's Sweet's ("החברה", "אנו", "שלנו") מחויבת להגן ע�
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -2974,9 +2958,9 @@ Maayani's Sweet's מחויבת להנגיש את השירותים לכלל הצ�
 
 - חברה: Maayani's Sweet's
 
-- אימייל: [business_email]
+- אימייל: maayanezra80@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 053-9281125
 
 
 
@@ -3026,11 +3010,11 @@ Maayani's Sweet's מחויבת להנגיש את השירותים לכלל הצ�
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -3040,13 +3024,11 @@ Maayani's Sweet's מחויבת להנגיש את השירותים לכלל הצ�
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -3280,11 +3262,11 @@ Maayani's Sweet's מספקת Bakery & Confectionery דרך האתר. השירו�
 
 - חברה: Maayani's Sweet's
 
-- אימייל: [business_email]
+- אימייל: maayanezra80@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 053-9281125
 
-- כתובת: [business_address]
+- כתובת: ראש העין
 
 
 
@@ -3328,11 +3310,11 @@ Maayani's Sweet's מספקת Bakery & Confectionery דרך האתר. השירו�
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -3342,13 +3324,11 @@ Maayani's Sweet's מספקת Bakery & Confectionery דרך האתר. השירו�
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -3563,11 +3543,11 @@ Description: Maayani's Sweet's - תודה שפניתם אלינו | Maayani's Sw
 #### צור קשר
 
 
-- [business_email]
+- maayanezra80@gmail.com
 
-- [business_phone]
+- 053-9281125
 
-- [business_address]
+- ראש העין
 
 
 
@@ -3577,13 +3557,11 @@ Description: Maayani's Sweet's - תודה שפניתם אלינו | Maayani's Sw
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
