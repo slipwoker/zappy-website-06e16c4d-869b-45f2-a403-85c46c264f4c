@@ -1,16 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-21T19:50:58.261Z",
+  "generated_at": "2026-06-21T20:10:40.298Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 4,
+  "count": 5,
   "products": [
     {
+      "id": "f0340a65-d789-48d1-8919-e68cd9b2f9e9",
+      "slug": "krambl-kvkyz-spyyshl-chdsh-qdb157",
+      "name": "קראמבל קוקיז ספיישל (חדש!)",
+      "name_translations": {},
+      "description": "<p>:טעמים לבחירתכם</p><p>!קרם בורלה,פררו רושה,קרמבו ויהיו עוד בהמשך</p><p>.אפשרי לצרף אותם למארזים אבל זה יעלה יותר</p><p>!!ניתן להזמין שבוע מראש</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782071574840-ze9kqi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/krambl-kvkyz-spyyshl-chdsh-qdb157",
+      "categories": [],
+      "updated_at": "2026-06-21T20:08:50.641Z"
+    },
+    {
       "id": "61775dbc-5a37-4f8b-80fa-1e66d8d8802c",
-      "slug": "marz-6-krambl-kvkyz-w4zvpg",
+      "slug": "marz-6-krambl-kvkyz-llxjes",
       "name": "מארז 6 קראמבל קוקיז",
       "name_translations": {},
-      "description": "<p>מארז 6 טעמים לבחירתכם</p>",
+      "description": "<p>מארז 6 טעמים לבחירתכם</p><p>!!ניתן להזמין שבוע מראש</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -23,16 +45,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/marz-6-krambl-kvkyz-w4zvpg",
+      "url": "https://example.com/product/marz-6-krambl-kvkyz-llxjes",
       "categories": [],
-      "updated_at": "2026-06-21T16:04:57.987Z"
+      "updated_at": "2026-06-21T20:07:45.696Z"
     },
     {
       "id": "8fffb651-9576-4769-9385-793019875a63",
-      "slug": "marz-5-krambl-kvkyz-thcsfw",
+      "slug": "marz-5-krambl-kvkyz-vrlwsh",
       "name": "מארז 5 קראמבל קוקיז",
       "name_translations": {},
-      "description": "<p>מארז 5 טעמים לבחירתכם</p>",
+      "description": "<p>מארז 5 טעמים לבחירתכם</p><p>ניתן להזמין שבוע מראש!!</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -45,16 +67,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/marz-5-krambl-kvkyz-thcsfw",
+      "url": "https://example.com/product/marz-5-krambl-kvkyz-vrlwsh",
       "categories": [],
-      "updated_at": "2026-06-21T16:03:35.537Z"
+      "updated_at": "2026-06-21T20:08:04.011Z"
     },
     {
       "id": "69877776-5a48-4e1f-a36b-e6e2ab8d04ad",
-      "slug": "marz-4-krambl-kvkyz-euo8mt",
+      "slug": "marz-4-krambl-kvkyz-e5ok0w",
       "name": "מארז 4 קראמבל קוקיז",
       "name_translations": {},
-      "description": "<p>מארז של 4 טעמים לבחירתכם.</p>",
+      "description": "<p>.מארז של 4 טעמים לבחירתכם</p><p>!!ניתן להזמין שבוע מראש</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -67,16 +89,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/marz-4-krambl-kvkyz-euo8mt",
+      "url": "https://example.com/product/marz-4-krambl-kvkyz-e5ok0w",
       "categories": [],
-      "updated_at": "2026-06-21T15:56:04.557Z"
+      "updated_at": "2026-06-21T20:08:38.435Z"
     },
     {
       "id": "eef2ffbf-1e5b-4f2f-9da1-7c054052a733",
-      "slug": "krambl-kvkyz-iq45tb",
+      "slug": "krambl-kvkyz-wydwmv",
       "name": "קראמבל קוקיז",
       "name_translations": {},
-      "description": "<p>.עוגיות קראמבל קוקיז עשירות ומפנקות בקוטר 10 ס\"מ</p><p>:כל עוגייה נאפית בעבודה יד עם תוספות מפנקות לבחירתכם, 10 טעמים מיוחדים</p><p> קינדר, אוראו, לוטוס, M&amp;M </p><p>שוקולד צ'יפס, במבה נוגט, נוטלה</p><p> קונפטי, שוקולד דובאי, קורנפלקס,בייגלה(חדש)</p><p><br></p>",
+      "description": "<p>.עוגיות קראמבל קוקיז עשירות ומפנקות בקוטר 10 ס\"מ</p><p>:כל עוגייה נאפית בעבודה יד עם תוספות מפנקות לבחירתכם, 10 טעמים מיוחדים</p><p>קינדר, אוראו, לוטוס, M&amp;M</p><p>שוקולד צ'יפס, במבה נוגט, נוטלה</p><p>קונפטי, שוקולד דובאי, קורנפלקס,בייגלה(חדש)</p><p>!!ניתן להזמין שבוע מראש</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -89,9 +111,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/krambl-kvkyz-iq45tb",
+      "url": "https://example.com/product/krambl-kvkyz-wydwmv",
       "categories": [],
-      "updated_at": "2026-06-21T15:54:20.792Z"
+      "updated_at": "2026-06-21T20:09:19.900Z"
     }
   ]
 }

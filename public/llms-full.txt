@@ -2008,14 +2008,6 @@ Description: המוצרים שלנו - Maayani's Sweet's
 
 
 
-הוסף את תוכן הטקסט שלך כאן. זהו טקסט ממלא מקום שניתן לערוך.
-
-
-
-
-
-
-
 
 
 
@@ -3654,39 +3646,48 @@ Description: Maayani's Sweet's - תודה שפניתם אלינו | Maayani's Sw
 
 ## Product Catalog
 
+### קראמבל קוקיז ספיישל (חדש!)
+URL: https://example.com/product/krambl-kvkyz-spyyshl-chdsh-qdb157
+Price: 40.00 ILS
+Availability: In stock
+
+:טעמים לבחירתכם !קרם בורלה,פררו רושה,קרמבו ויהיו עוד בהמשך .אפשרי לצרף אותם למארזים אבל זה יעלה יותר !!ניתן להזמין שבוע מראש
+
+---
+
 ### מארז 6 קראמבל קוקיז
-URL: https://example.com/product/marz-6-krambl-kvkyz-w4zvpg
+URL: https://example.com/product/marz-6-krambl-kvkyz-llxjes
 Price: 180.00 ILS
 Availability: In stock
 
-מארז 6 טעמים לבחירתכם
+מארז 6 טעמים לבחירתכם !!ניתן להזמין שבוע מראש
 
 ---
 
 ### מארז 5 קראמבל קוקיז
-URL: https://example.com/product/marz-5-krambl-kvkyz-thcsfw
+URL: https://example.com/product/marz-5-krambl-kvkyz-vrlwsh
 Price: 150.00 ILS
 Availability: In stock
 
-מארז 5 טעמים לבחירתכם
+מארז 5 טעמים לבחירתכם ניתן להזמין שבוע מראש!!
 
 ---
 
 ### מארז 4 קראמבל קוקיז
-URL: https://example.com/product/marz-4-krambl-kvkyz-euo8mt
+URL: https://example.com/product/marz-4-krambl-kvkyz-e5ok0w
 Price: 120.00 ILS
 Availability: In stock
 
-מארז של 4 טעמים לבחירתכם.
+.מארז של 4 טעמים לבחירתכם !!ניתן להזמין שבוע מראש
 
 ---
 
 ### קראמבל קוקיז
-URL: https://example.com/product/krambl-kvkyz-iq45tb
+URL: https://example.com/product/krambl-kvkyz-wydwmv
 Price: 30.00 ILS
 Availability: In stock
 
-.עוגיות קראמבל קוקיז עשירות ומפנקות בקוטר 10 ס"מ :כל עוגייה נאפית בעבודה יד עם תוספות מפנקות לבחירתכם, 10 טעמים מיוחדים קינדר, אוראו, לוטוס, M&amp;M שוקולד צ'יפס, במבה נוגט, נוטלה קונפטי, שוקולד דובאי, קורנפלקס,בייגלה(חדש)
+.עוגיות קראמבל קוקיז עשירות ומפנקות בקוטר 10 ס"מ :כל עוגייה נאפית בעבודה יד עם תוספות מפנקות לבחירתכם, 10 טעמים מיוחדים קינדר, אוראו, לוטוס, M&amp;M שוקולד צ'יפס, במבה נוגט, נוטלה קונפטי, שוקולד דובאי, קורנפלקס,בייגלה(חדש) !!ניתן להזמין שבוע מראש
 
 ---
 
