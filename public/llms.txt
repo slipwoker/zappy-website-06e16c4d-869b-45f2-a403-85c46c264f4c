@@ -56,7 +56,35 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 4**
+
+### מארז 6 קראמבל קוקיז
+https://example.com/product/marz-6-krambl-kvkyz-w4zvpg
+- Price: 180.00 ILS
+- Availability: In stock
+- Description: מארז 6 טעמים לבחירתכם
+- Image: https://example.com/assets/product-1782057882326-dfee5.webp
+
+### מארז 5 קראמבל קוקיז
+https://example.com/product/marz-5-krambl-kvkyz-thcsfw
+- Price: 150.00 ILS
+- Availability: In stock
+- Description: מארז 5 טעמים לבחירתכם
+- Image: https://example.com/assets/product-1782057663944-a87hxm.webp
+
+### מארז 4 קראמבל קוקיז
+https://example.com/product/marz-4-krambl-kvkyz-euo8mt
+- Price: 120.00 ILS
+- Availability: In stock
+- Description: מארז של 4 טעמים לבחירתכם.
+- Image: https://example.com/assets/product-1782057352411-jxxwi9.webp
+
+### קראמבל קוקיז
+https://example.com/product/krambl-kvkyz-iq45tb
+- Price: 30.00 ILS
+- Availability: In stock
+- Description: .עוגיות קראמבל קוקיז עשירות ומפנקות בקוטר 10 ס"מ :כל עוגייה נאפית בעבודה יד עם תוספות מפנקות לבחירתכם, 10 טעמים מיוחדים קינדר, אוראו, לוטוס, M&amp;M שוקולד צ'יפס, במבה נוגט, נוטלה קונפטי, שוקולד דובאי, קורנפלקס,בייגלה(חדש)
+- Image: https://example.com/assets/product-1782056949751-pe595.webp
 
 ---
 

@@ -4,6 +4,54 @@
     <title>Maayani&apos;s Sweet&apos;s</title>
     <link>https://example.com</link>
     <description>Product feed for Maayani&apos;s Sweet&apos;s</description>
-    <lastBuildDate>Sun, 21 Jun 2026 15:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 16:09:19 GMT</lastBuildDate>
+    <item>
+      <g:id>61775dbc-5a37-4f8b-80fa-1e66d8d8802c</g:id>
+      <g:title>מארז 6 קראמבל קוקיז</g:title>
+      <g:description>מארז 6 טעמים לבחירתכם</g:description>
+      <g:link>https://example.com/product/marz-6-krambl-kvkyz-w4zvpg</g:link>
+      <g:image_link>https://example.com/assets/product-1782057882326-dfee5.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>180.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Maayani&apos;s Sweet&apos;s</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>8fffb651-9576-4769-9385-793019875a63</g:id>
+      <g:title>מארז 5 קראמבל קוקיז</g:title>
+      <g:description>מארז 5 טעמים לבחירתכם</g:description>
+      <g:link>https://example.com/product/marz-5-krambl-kvkyz-thcsfw</g:link>
+      <g:image_link>https://example.com/assets/product-1782057663944-a87hxm.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Maayani&apos;s Sweet&apos;s</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>69877776-5a48-4e1f-a36b-e6e2ab8d04ad</g:id>
+      <g:title>מארז 4 קראמבל קוקיז</g:title>
+      <g:description>מארז של 4 טעמים לבחירתכם.</g:description>
+      <g:link>https://example.com/product/marz-4-krambl-kvkyz-euo8mt</g:link>
+      <g:image_link>https://example.com/assets/product-1782057352411-jxxwi9.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>120.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Maayani&apos;s Sweet&apos;s</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>eef2ffbf-1e5b-4f2f-9da1-7c054052a733</g:id>
+      <g:title>קראמבל קוקיז</g:title>
+      <g:description>.עוגיות קראמבל קוקיז עשירות ומפנקות בקוטר 10 ס&quot;מ :כל עוגייה נאפית בעבודה יד עם תוספות מפנקות לבחירתכם, 10 טעמים מיוחדים קינדר, אוראו, לוטוס, M&amp;amp;M שוקולד צ&apos;יפס, במבה נוגט, נוטלה קונפטי, שוקולד דובאי, קורנפלקס,בייגלה(חדש)</g:description>
+      <g:link>https://example.com/product/krambl-kvkyz-iq45tb</g:link>
+      <g:image_link>https://example.com/assets/product-1782056949751-pe595.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>30.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Maayani&apos;s Sweet&apos;s</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

@@ -3642,3 +3642,41 @@ Description: Maayani's Sweet's - תודה שפניתם אלינו | Maayani's Sw
 
 ---
 
+## Product Catalog
+
+### מארז 6 קראמבל קוקיז
+URL: https://example.com/product/marz-6-krambl-kvkyz-w4zvpg
+Price: 180.00 ILS
+Availability: In stock
+
+מארז 6 טעמים לבחירתכם
+
+---
+
+### מארז 5 קראמבל קוקיז
+URL: https://example.com/product/marz-5-krambl-kvkyz-thcsfw
+Price: 150.00 ILS
+Availability: In stock
+
+מארז 5 טעמים לבחירתכם
+
+---
+
+### מארז 4 קראמבל קוקיז
+URL: https://example.com/product/marz-4-krambl-kvkyz-euo8mt
+Price: 120.00 ILS
+Availability: In stock
+
+מארז של 4 טעמים לבחירתכם.
+
+---
+
+### קראמבל קוקיז
+URL: https://example.com/product/krambl-kvkyz-iq45tb
+Price: 30.00 ILS
+Availability: In stock
+
+.עוגיות קראמבל קוקיז עשירות ומפנקות בקוטר 10 ס"מ :כל עוגייה נאפית בעבודה יד עם תוספות מפנקות לבחירתכם, 10 טעמים מיוחדים קינדר, אוראו, לוטוס, M&amp;M שוקולד צ'יפס, במבה נוגט, נוטלה קונפטי, שוקולד דובאי, קורנפלקס,בייגלה(חדש)
+
+---
+

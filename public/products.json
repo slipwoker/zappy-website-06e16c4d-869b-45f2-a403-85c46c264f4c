@@ -1,8 +1,97 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-21T15:39:23.346Z",
+  "generated_at": "2026-06-21T16:09:19.236Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 4,
+  "products": [
+    {
+      "id": "61775dbc-5a37-4f8b-80fa-1e66d8d8802c",
+      "slug": "marz-6-krambl-kvkyz-w4zvpg",
+      "name": "מארז 6 קראמבל קוקיז",
+      "name_translations": {},
+      "description": "<p>מארז 6 טעמים לבחירתכם</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 180,
+      "base_price": 180,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782057882326-dfee5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/marz-6-krambl-kvkyz-w4zvpg",
+      "categories": [],
+      "updated_at": "2026-06-21T16:04:57.987Z"
+    },
+    {
+      "id": "8fffb651-9576-4769-9385-793019875a63",
+      "slug": "marz-5-krambl-kvkyz-thcsfw",
+      "name": "מארז 5 קראמבל קוקיז",
+      "name_translations": {},
+      "description": "<p>מארז 5 טעמים לבחירתכם</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782057663944-a87hxm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/marz-5-krambl-kvkyz-thcsfw",
+      "categories": [],
+      "updated_at": "2026-06-21T16:03:35.537Z"
+    },
+    {
+      "id": "69877776-5a48-4e1f-a36b-e6e2ab8d04ad",
+      "slug": "marz-4-krambl-kvkyz-euo8mt",
+      "name": "מארז 4 קראמבל קוקיז",
+      "name_translations": {},
+      "description": "<p>מארז של 4 טעמים לבחירתכם.</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782057352411-jxxwi9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/marz-4-krambl-kvkyz-euo8mt",
+      "categories": [],
+      "updated_at": "2026-06-21T15:56:04.557Z"
+    },
+    {
+      "id": "eef2ffbf-1e5b-4f2f-9da1-7c054052a733",
+      "slug": "krambl-kvkyz-iq45tb",
+      "name": "קראמבל קוקיז",
+      "name_translations": {},
+      "description": "<p>.עוגיות קראמבל קוקיז עשירות ומפנקות בקוטר 10 ס\"מ</p><p>:כל עוגייה נאפית בעבודה יד עם תוספות מפנקות לבחירתכם, 10 טעמים מיוחדים</p><p> קינדר, אוראו, לוטוס, M&amp;M </p><p>שוקולד צ'יפס, במבה נוגט, נוטלה</p><p> קונפטי, שוקולד דובאי, קורנפלקס,בייגלה(חדש)</p><p><br></p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782056949751-pe595.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/krambl-kvkyz-iq45tb",
+      "categories": [],
+      "updated_at": "2026-06-21T15:54:20.792Z"
+    }
+  ]
 }
