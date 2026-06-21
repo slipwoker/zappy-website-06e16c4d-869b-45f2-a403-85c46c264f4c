@@ -1,0 +1,88 @@
+# Maayani's Sweet's — Generative Engine Optimization Map
+
+> A home or boutique bakery business specializing in cakes, cookies, and baked goods. The brand revolves around sweet treats and artisan baking, suggesting a warm, inviting, and delicious atmosphere.
+
+---
+
+## Pages
+
+### בית
+https://maayani-s-sweet-s-06e16c4d.zappy5.app
+גלו עולם של עוגות מעוצבות, עוגיות חמאה וקינוחי גורמה בעבודת יד ממאפיית הבוטיק שלנו. כל ביס מלא באהבה, טעם וריח של בית חם. הזמינו עכשיו את המתוק הבא שלכם!
+
+### חגיגות
+https://maayani-s-sweet-s-06e16c4d.zappy5.app/celebrations
+הפכו כל חגיגה לבלתי נשכחת עם עוגות מרהיבות, קינוחי גורמה ומגשי מתוקים בהתאמה אישית. אנחנו נדאג לרגע המתוק שכולם ידברו עליו, מהחתונה ועד יום ההולדת. צרו קשר לתכנון האירוע המושלם!
+
+### אודות
+https://maayani-s-sweet-s-06e16c4d.zappy5.app/about
+הכירו את התשוקה, המסורת והאהבה לאפייה שהופכות כל מתכון ליצירת אמנות. ממטבח ביתי קטן למאפיית בוטיק מפורסמת, אנחנו מביאים לכם טעמים של פעם עם קריצה מודרנית. בואו לטעום את הסיפור שלנו!
+
+### צור קשר
+https://maayani-s-sweet-s-06e16c4d.zappy5.app/contact
+מחפשים עוגה מותאמת אישית או סתם בא לכם לפנק מישהו מיוחד? השאירו פרטים ונתאים לכם את הפינוק המושלם, ישר מהתנור אליכם. אנחנו זמינים לכל שאלה, בקשה או סתם שיחת מתוקים. כתבו לנו עכשיו!
+
+### Products
+https://maayani-s-sweet-s-06e16c4d.zappy5.app/products
+המוצרים שלנו - Maayani's Sweet's
+
+### Product Detail
+https://maayani-s-sweet-s-06e16c4d.zappy5.app/product/:slug
+פרטי המוצר - Maayani's Sweet's
+
+### Category
+https://maayani-s-sweet-s-06e16c4d.zappy5.app/category/:slug
+מוצרים - Maayani's Sweet's
+
+### תודה שפניתם אלינו | Maayani's Sweet's
+https://maayani-s-sweet-s-06e16c4d.zappy5.app/thank-you
+Maayani's Sweet's - תודה שפניתם אלינו | Maayani's Sweet's
+
+## Legal & Policy
+
+### Privacy Policy
+https://maayani-s-sweet-s-06e16c4d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://maayani-s-sweet-s-06e16c4d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://maayani-s-sweet-s-06e16c4d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Maayani's Sweet's
+A home or boutique bakery business specializing in cakes, cookies, and baked goods. The brand revolves around sweet treats and artisan baking, suggesting a warm, inviting, and delicious atmosphere.
+
+## Services/Products
+- עוגות
+- עוגיות
+- מאפים
+
+## Target Audience
+- מתכנני אירועים משפחתיים
+- מארגני אירועים משרדיים
+
+## Industry
+Bakery & Confectionery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://maayani-s-sweet-s-06e16c4d.zappy5.app/sitemap.xml
+- Robots: https://maayani-s-sweet-s-06e16c4d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://maayani-s-sweet-s-06e16c4d.zappy5.app/llms-full.txt
+- Products (JSON): https://maayani-s-sweet-s-06e16c4d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://maayani-s-sweet-s-06e16c4d.zappy5.app/product-feed.xml
