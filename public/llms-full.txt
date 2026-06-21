@@ -2,13 +2,13 @@
 
 A home or boutique bakery business specializing in cakes, cookies, and baked goods. The brand revolves around sweet treats and artisan baking, suggesting a warm, inviting, and delicious atmosphere.
 
-Source: https://maayani-s-sweet-s-06e16c4d.zappy5.app
+Source: https://example.com
 
 ---
 
 ## פינוקים מתוקים לכל רגע — Maayani&#39;s Sweet&#39;s
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app
+URL: https://example.com
 Description: גלו עולם של עוגות מעוצבות, עוגיות חמאה וקינוחי גורמה בעבודת יד ממאפיית הבוטיק שלנו. כל ביס מלא באהבה, טעם וריח של בית חם. הזמינו עכשיו את המתוק הבא שלכם!
 
 פינוקים מתוקים לכל רגע — Maayani's Sweet's
@@ -456,7 +456,7 @@ Description: גלו עולם של עוגות מעוצבות, עוגיות חמא
 
 ## עיצוב עוגות חלומי לאירוע שלך — Maayani&#39;s Sweet&#39;s
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app/celebrations
+URL: https://example.com/celebrations
 Description: הפכו כל חגיגה לבלתי נשכחת עם עוגות מרהיבות, קינוחי גורמה ומגשי מתוקים בהתאמה אישית. אנחנו נדאג לרגע המתוק שכולם ידברו עליו, מהחתונה ועד יום ההולדת. צרו קשר לתכנון האירוע המושלם!
 
 עיצוב עוגות חלומי לאירוע שלך — Maayani's Sweet's
@@ -1085,7 +1085,7 @@ Description: הפכו כל חגיגה לבלתי נשכחת עם עוגות מר
 
 ## הסיפור המתוק שמאחורי הבצק — Maayani&#39;s Sweet&#39;s
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את התשוקה, המסורת והאהבה לאפייה שהופכות כל מתכון ליצירת אמנות. ממטבח ביתי קטן למאפיית בוטיק מפורסמת, אנחנו מביאים לכם טעמים של פעם עם קריצה מודרנית. בואו לטעום את הסיפור שלנו!
 
 הסיפור המתוק שמאחורי הבצק — Maayani's Sweet's
@@ -1463,7 +1463,7 @@ Description: הכירו את התשוקה, המסורת והאהבה לאפיי�
 
 ## דברו איתנו על המתוק הבא — Maayani&#39;s Sweet&#39;s
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app/contact
+URL: https://example.com/contact
 Description: מחפשים עוגה מותאמת אישית או סתם בא לכם לפנק מישהו מיוחד? השאירו פרטים ונתאים לכם את הפינוק המושלם, ישר מהתנור אליכם. אנחנו זמינים לכל שאלה, בקשה או סתם שיחת מתוקים. כתבו לנו עכשיו!
 
 דברו איתנו על המתוק הבא — Maayani's Sweet's
@@ -1858,7 +1858,7 @@ Description: מחפשים עוגה מותאמת אישית או סתם בא לכ
 
 ## מוצרים
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Maayani's Sweet's
 
 מוצרים - Maayani's Sweet's
@@ -2088,7 +2088,7 @@ Description: המוצרים שלנו - Maayani's Sweet's
 
 ## פרטי המוצר
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Maayani's Sweet's
 
 פרטי המוצר - Maayani's Sweet's
@@ -2296,7 +2296,7 @@ Description: פרטי המוצר - Maayani's Sweet's
 
 ## מוצרים
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Maayani's Sweet's
 
 מוצרים - Maayani's Sweet's
@@ -2528,7 +2528,7 @@ Description: מוצרים - Maayani's Sweet's
 
 ## מדיניות פרטיות
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2802,7 +2802,7 @@ Maayani's Sweet's ("החברה", "אנו", "שלנו") מחויבת להגן ע�
 
 ## הצהרת נגישות
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3085,7 +3085,7 @@ Maayani's Sweet's מחויבת להנגיש את השירותים לכלל הצ�
 
 ## תנאי שימוש
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3387,7 +3387,7 @@ Maayani's Sweet's מספקת Bakery & Confectionery דרך האתר. השירו�
 
 ## תודה שפניתם אלינו | Maayani's Sweet's
 
-URL: https://maayani-s-sweet-s-06e16c4d.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Maayani's Sweet's - תודה שפניתם אלינו | Maayani's Sweet's
 
 תודה שפניתם אלינו | Maayani's Sweet's
